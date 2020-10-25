@@ -1,1 +1,1 @@
-# Get-to-know-Swift-Language-Part-1
+# Getting-ready-in-Swift-Language-Part-1
